@@ -38,8 +38,8 @@ La méthode `fetch` est comme un appel téléphonique à un serveur pour demande
 
 ---
 Pour aller plus loin, tu peux trouver en alternative Axios et Ajax. 
-'Axios' est similaire dans sa syntaxe à 'fetch' nécéssite une installation et ajax est obselète. 
-Si tu dois choisir entre les 3, choisis donc 'fetch' qui natif  à JS et plus performant que Axios.
+'Axios' est similaire dans sa syntaxe à 'fetch' mais nécéssite une installation, tandis que ajax est obselète. 
+Si tu dois choisir entre les 3, choisis donc 'fetch' qui est natif  à JS et plus performant que Axios.
 
 J'espère que cette explication te sera utile ! Si tu as d'autres questions ou si quelque chose n'est pas clair, n'hésite pas à demander. Bonne programmation et allez l'équipe ! ⚽🎉
 
