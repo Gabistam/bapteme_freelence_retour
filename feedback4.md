@@ -1,7 +1,8 @@
- 
-    Salut Apprenant4 😃 !
+- **feedback**
+     
+    Salut Apprenant4 😃 ! 
     
-     Voici le feedback détaillé sur tes travaux. Prenons chaque section une à une.
+    Voici le feedback détaillé sur tes travaux. Prenons chaque section une à une.
     
     ### 1. **Index.js & DB**
     
@@ -60,4 +61,4 @@
         - Vérifie et corrige les liens et les routes qui sont actuellement non fonctionnels ou incorrects.
         - Continue à améliorer l'expérience utilisateur en rendant ton application plus interactive et en répondant aux attentes des utilisateurs.
     
-    Dans l'ensemble, tu as montré une compréhension solide des concepts et tu as bien structuré ton application. Continue sur cette voie, et bon courage pour la suite ! !🚀  
+    Dans l'ensemble, tu as montré une compréhension solide des concepts et tu as bien structuré ton application. Continue sur cette voie, et bon courage pour la suite ! 🚀 
