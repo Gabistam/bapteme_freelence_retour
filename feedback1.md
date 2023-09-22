@@ -1,6 +1,8 @@
 - **Feedback 1**
     
-    Hello Apprenant1 :)! Suite à une analyse approfondie de ton parcours sur le projet Triple Triad Deck Builder, voici mes observations et suggestions :
+    Hello Apprenant1 🙂!
+    
+     Suite à une analyse approfondie de ton parcours sur le projet Triple Triad Deck Builder, voici mes observations et suggestions :
     
     ### **1. Fichier : index.js**
     
