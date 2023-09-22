@@ -49,4 +49,4 @@
     
     Je t'encourage à revisiter la version de correction pour t'assurer de bien comprendre chaque étape et chaque décision de conception. N'hésite pas à poser des questions ou à chercher des clarifications si certaines parties restent floues.
     
-    Continue comme ça, et bon courage pour la suite de ta formation !
+    Continue comme ça, et bon courage pour la suite de ta formation !🚀

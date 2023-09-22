@@ -42,4 +42,4 @@
     
     Globalement, tu as réalisé un travail solide avec une bonne structure et une logique bien pensée. Cependant, la sécurité est un élément essentiel, surtout quand on travaille avec des données utilisateurs et des bases de données. Continue comme ça, et n'hésite pas à creuser plus profondément chaque concept pour t'assurer d'adopter les meilleures pratiques.
     
-    Si tu as des questions ou besoin de clarifications sur certains points, je suis là pour t'aider. Bonne continuation !
+    Si tu as des questions ou besoin de clarifications sur certains points, je suis là pour t'aider. Bonne continuation !🚀
